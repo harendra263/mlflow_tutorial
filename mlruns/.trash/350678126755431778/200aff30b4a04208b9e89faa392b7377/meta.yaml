@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/harendrakumar/Documents/MLOPS/mlruns/350678126755431778/200aff30b4a04208b9e89faa392b7377/artifacts
+deleted_time: 1692794324361
+end_time: 1692792483679
+entry_point_name: ''
+experiment_id: '350678126755431778'
+lifecycle_stage: deleted
+run_id: 200aff30b4a04208b9e89faa392b7377
+run_name: beautiful-smelt-279
+run_uuid: 200aff30b4a04208b9e89faa392b7377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692792483675
+status: 4
+tags: []
+user_id: harendrakumar

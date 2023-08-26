@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harendrakumar/Documents/MLOPS/mlruns/117760402812799933/c6b4750cee7343a7999534b432263b7c/artifacts
+end_time: 1692804125264
+entry_point_name: ''
+experiment_id: '117760402812799933'
+lifecycle_stage: active
+run_id: c6b4750cee7343a7999534b432263b7c
+run_name: abundant-lamb-126
+run_uuid: c6b4750cee7343a7999534b432263b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692804123790
+status: 3
+tags: []
+user_id: harendrakumar

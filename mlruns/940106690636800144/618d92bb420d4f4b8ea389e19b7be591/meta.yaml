@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harendrakumar/Documents/MLOPS/mlruns/940106690636800144/618d92bb420d4f4b8ea389e19b7be591/artifacts
+end_time: 1692792505994
+entry_point_name: ''
+experiment_id: '940106690636800144'
+lifecycle_stage: active
+run_id: 618d92bb420d4f4b8ea389e19b7be591
+run_name: rare-ant-74
+run_uuid: 618d92bb420d4f4b8ea389e19b7be591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692792504331
+status: 3
+tags: []
+user_id: harendrakumar
