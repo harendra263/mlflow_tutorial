@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harendrakumar/Documents/MLOPS/mlruns/865659640667115902/35ccc7aa27e347a4821b16b32c573cf3/artifacts
+end_time: 1693033618094
+entry_point_name: ''
+experiment_id: '865659640667115902'
+lifecycle_stage: active
+run_id: 35ccc7aa27e347a4821b16b32c573cf3
+run_name: iris_classifier_26-08-23
+run_uuid: 35ccc7aa27e347a4821b16b32c573cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693033616550
+status: 3
+tags: []
+user_id: harendrakumar
